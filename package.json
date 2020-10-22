@@ -1,0 +1,22 @@
+{
+  "name": "passbot",
+  "version": "1.0.0",
+  "description": "Adds functionality to the University of Manchester PASSbot to allow students to anonymously send feedback to SSC reps.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naeviant/PASSbot.git"
+  },
+  "author": "Sam Hirst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naeviant/PASSbot/issues"
+  },
+  "homepage": "https://github.com/Naeviant/PASSbot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.0"
+  }
+}
